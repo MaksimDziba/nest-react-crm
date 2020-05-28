@@ -1366,19 +1366,19 @@
         "signature": "8483a29c17f7feb768a1f4333cf12ccf1e7341bd89dadcf407e012d5315228d0",
         "affectsGlobalScope": false
       },
-      "./src/frontend/index.tsx": {
-        "version": "4441ff17ed8f734d3bf1e95b0b55f93743ee3df6620e8e3d5388705db2f35d4d",
-        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
-        "affectsGlobalScope": false
-      },
       "./src/frontend/component/App/App.tsx": {
-        "version": "21493ca37fa21a9a11718086eb2ac13492d6da0239fb69ca15b3c47ad3f0e8b0",
-        "signature": "b23cbb13d3fca7dce08a103a4f690dd8ea7c31dc28af6ca4cc958b18cd9502cc",
+        "version": "3229c1f4f935f7f76b247e40c66092c60253e4900995276d785cd0972c9e8b45",
+        "signature": "9beca55495dbb423c1cf6d434b07c81434e01e5effa44a45b52135aa29835550",
         "affectsGlobalScope": false
       },
       "./src/frontend/component/App/index.tsx": {
         "version": "50f9de89b1634a0b21f3052349cefaf96e78ad8a28f794354b4902a5a6293f5a",
         "signature": "ce3ebafcd6ed04a82c9777a17a84feab4874a2a7898c2aa89d764af8b477ecf3",
+        "affectsGlobalScope": false
+      },
+      "./src/frontend/index.tsx": {
+        "version": "3e44f6711e09bebe40259df52a0e96a25704f8ad5973ed74a98915331020279b",
+        "signature": "1d718b0153bdcd004326fa3ecd0bb1fd90857c3a585991c660faea15fb327776",
         "affectsGlobalScope": false
       },
       "./node_modules/@types/anymatch/index.d.ts": {
@@ -5217,7 +5217,7 @@
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/react-dom/index.d.ts",
         "./node_modules/@types/react/index.d.ts",
-        "./src/common/HelloResponse.ts"
+        "./src/frontend/component/App/index.tsx"
       ]
     },
     "exportedModulesMap": {
